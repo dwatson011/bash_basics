@@ -14,7 +14,8 @@ elif [ $grade -ge 70 ]; then
 elif [ $grade -ge 60 ]; then
    echo "You got a D. You passed, but there's room to improve."
 else
-   echo "You got an F. Looks like it's time for some extra credit assignments."
+=======
+   echo "You got an F. Looks like it's time for some extra credit."
 fi
 
 
